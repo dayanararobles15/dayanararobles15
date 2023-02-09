@@ -25,6 +25,8 @@ Here are some of my best projects.
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+<img src="https://previews.dropbox.com/p/thumb/ABzHH_Z5HJ94CG8RiELUgJYMavP1y0mcoPWQ5czdoV5ZXKT_4NE0sOyxx0QxaEONFFkBhia1aRIvjvhwojLgIw6KcYa9bLyVIXUMcjCipqDCRYunzSwnHNY20CY2OAePe3Yc6poQ_2CnAAKh8dtXXPNgpRgHPYZoGubnAIQhbolKiBWRJ9DunJdUOjM5alueIyCKSGFb1n4YAWjJ0TFHtErt7EcI58HyZTa3pLKHQC5s0vMJr1oREMBK9yEgpXQvVfEq_aV8SK7BxACcIGpvj6CcLLwBeh9i7C4u6-NIVcWfh5CIXuVfqALrKt9ZJz4boFPkPIPH3bJcS7q3wgzjz6qZPbbsqRJZ2mYsJ4lVBDJceKDqPTK-ujGYuvSxW5H68p4/p.png">
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanara-robles-998298264/)
