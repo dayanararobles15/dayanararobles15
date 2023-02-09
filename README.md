@@ -28,7 +28,7 @@ Here are some of my best projects.
 
 ## :black_nib: Main interests
 
-<img src="https://img.shields.io/badge/-ANGULAR-red">
+<img src="https://dl.dropboxusercontent.com/s/jzekjtwh5d7gor2/mainIn.JPG">
 
 
 ## 🔗 Links
