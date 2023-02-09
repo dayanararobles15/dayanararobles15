@@ -24,7 +24,7 @@ Here are some of my best projects.
 
 ## 🛠 Skills
 
-<img src="https://dl.dropboxusercontent.com/s/q0y9hjndn8wp7ui/skill.png">
+<img src="https://dl.dropboxusercontent.com/s/q0y9hjndn8wp7ui/skill.png" style="width: 50%; height: auto; display: block; margin: 0 auto;">
 
 ## :black_nib: Main interests
 
