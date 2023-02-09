@@ -1,16 +1,35 @@
-### Hola, mi nombre es Dayanara Robles 👋
+# Hi, I'm Daya! 👋
 
-<!--
-**dayanararobles15/dayanararobles15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Hello, my name is Dayanara Robles. I am a software student at the Technical University of Ambato and I live in the city of Ambato.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am about to graduate as a software engineer and I am excited to start my career in this field. During my years of study, I learned about different programming languages, technologies, and software development methodologies. Additionally, I participated in team projects and worked on web and mobile applications.
+
+In addition to my technical training, I also have skills in collaboration and problem-solving. I am willing to learn and grow professionally in my career.
+
+My long-term goal is to become a leading software engineer and work on projects that have a positive impact on society. I am excited about what the future holds for me in this constantly evolving industry and I am ready to face the challenges that arise.
+
+
+## ⚡️ My Projects
+Here are some of my best projects.
+
+[- Website for frequency management of a tourist bus](https://github.com/dayanararobles15/Pagina-Informativa-Bus-de-turismo) :bus:
+
+[- Mobile application for the inventory and management of a book store](https://github.com/dayanararobles15/BookShop-Movil) :books:
+
+[- Website for hospital staff management](https://github.com/dayanararobles15/Proyecto-Ambulancia) :ambulance:
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## 🔗 Links
+[- Website for frequency management of a tourist bus]  (https://github.com/dayanararobles15/Pagina-Informativa-Bus-de-turismo) :bus:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+
