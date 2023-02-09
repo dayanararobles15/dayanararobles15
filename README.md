@@ -26,6 +26,9 @@ Here are some of my best projects.
 
 <img src="https://dl.dropboxusercontent.com/s/q0y9hjndn8wp7ui/skill.png">
 
+## :black_nib: Main interests
+
+-Hols
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanara-robles-998298264/)
